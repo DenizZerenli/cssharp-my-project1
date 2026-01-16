@@ -1,0 +1,4 @@
+﻿'test4.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'test4.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\User\source\repos\test4\test4\bin\Debug\test4.exe'. Symbols loaded.
+'test4.exe' (CLR v4.0.30319: test4.exe): Loaded 'C:\Program Files\Microsoft Visual Studio\18\Community\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[16488] test4.exe' has exited with code 3221225786 (0xc000013a).
